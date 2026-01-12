@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=AGIL%20FAQIH&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=AGIL%20FAQIH&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=000000" />
 
   # ⚡ AGIL FAQIH
   ### **Full-Stack Developer | Web Developer Intern @ Ashari Tech**
@@ -25,7 +25,7 @@
 
 ---
 
-### 🚀 PROFESSION EXPERIENCE
+### 🚀 PROFESSIONAL EXPERIENCE
 - **Web Developer Intern** @ [Ashari Tech](https://ashari.tech)
   - Developing high-performance web applications using **Next.js**, **React**, and **TypeScript**.
   - Focused on creating responsive and accessible user interfaces.
@@ -80,17 +80,20 @@
 ### 🌟 FEATURED PROJECTS
 
 <div align="center">
+  <a href="https://github.com/StickGo/StickGo.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=StickGo.github.io&theme=monochrome&border_radius=0&hide_border=true" />
+  </a>
   <a href="https://github.com/StickGo/ChatAi">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=ChatAi&theme=monochrome&border_radius=0&hide_border=true" />
-  </a>
-  <a href="https://github.com/StickGo/latihan-nextjs-ngrok">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=latihan-nextjs-ngrok&theme=monochrome&border_radius=0&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/StickGo/my-first-nextjs">
-    <img src="https://img.shields.io/badge/VIEW_MORE_PROJECTS-000000?style=for-the-badge&logoColor=white" />
+  <a href="https://github.com/StickGo/latihan-nextjs-ngrok">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=latihan-nextjs-ngrok&theme=monochrome&border_radius=0&hide_border=true" />
+  </a>
+  <a href="https://github.com/StickGo/Incubator">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=Incubator&theme=monochrome&border_radius=0&hide_border=true" />
   </a>
 </div>
 
@@ -106,4 +109,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monochrome" alt="Quote" />
 </p>
 
-<!-- Last updated: 2026-01-12 20:15 -->
+<!-- Last updated: 2026-01-12 20:20 -->
