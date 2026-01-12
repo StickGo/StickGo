@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=AGIL%20FAQIH&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=AGIL%20FAQIH&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=000000" />
 
   # ⚡ AGIL FAQIH
   ### **Web Developer Intern @ Ashari Tech | Next.js Specialist**
@@ -65,3 +65,5 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monochrome" alt="Quote" />
 </p>
+
+<!-- Last updated: 2026-01-12 20:05 -->
