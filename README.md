@@ -67,24 +67,10 @@
 ---
 
 ### 🌟 FEATURED PROJECTS
-
-<div align="center">
-  <a href="https://github.com/StickGo/StickGo.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=StickGo.github.io&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" />
-  </a>
-  <a href="https://github.com/StickGo/ChatAi">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=ChatAi&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/StickGo/latihan-nextjs-ngrok">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=latihan-nextjs-ngrok&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" />
-  </a>
-  <a href="https://github.com/StickGo/Incubator">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=Incubator&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" />
-  </a>
-</div>
+- 🌐 **[StickGo.github.io](https://github.com/StickGo/StickGo.github.io)** — Personal Portfolio Website.
+- 🤖 **[ChatAi](https://github.com/StickGo/ChatAi)** — Intelligent AI Conversational Interface.
+- 🔗 **[latihan-nextjs-ngrok](https://github.com/StickGo/latihan-nextjs-ngrok)** — Local Tunneling & Next.js Experiments.
+- 🧪 **[Incubator](https://github.com/StickGo/Incubator)** — Testing & Innovation Lab.
 
 <br />
 
@@ -92,4 +78,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 </p>
 
-<!-- Last updated: 2026-01-12 20:30 -->
+<!-- Last updated: 2026-01-12 20:31 -->
