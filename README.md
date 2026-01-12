@@ -1,6 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=AGIL%20FAQIH&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=ffffff" />
 
+  <br />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&weight=600&color=000000&center=true&vCenter=true&width=500&lines=Web+Developer+Intern+%40+Ashari+Tech;Next.js+%26+React+Specialist;Building+Elegant+Digital+Solutions;Minimalist+Design+Enthusiast" alt="Typing SVG" />
+
   <p align="center">
     <a href="https://agilfaqih.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -16,9 +20,6 @@
     </a>
     <a href="https://www.instagram.com/ijsamagilfaqih" target="_blank">
       <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:faqihatun26@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -78,4 +79,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 </p>
 
-<!-- Last updated: 2026-01-12 20:31 -->
+<!-- Last updated: 2026-01-12 20:33 -->
