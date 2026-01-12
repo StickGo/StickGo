@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=AGIL%20FAQIH&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=AGIL%20FAQIH&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=ffffff" />
 
   # ⚡ AGIL FAQIH
   ### **Full-Stack Developer | Web Developer Intern @ Ashari Tech**
@@ -63,12 +63,12 @@
 ### 📊 GITHUB METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StickGo&show_icons=true&theme=monochrome&border_radius=0&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StickGo&layout=compact&theme=monochrome&border_radius=0&hide_border=true" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StickGo&show_icons=true&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StickGo&layout=compact&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" alt="Langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=StickGo&theme=monochrome&border_radius=0&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=StickGo&theme=transparent&currStreakNum=000000&sideLabels=000000&sideNums=000000&fire=000000&dates=000000" alt="Streak" />
 </div>
 
 <div align="center">
@@ -81,32 +81,32 @@
 
 <div align="center">
   <a href="https://github.com/StickGo/StickGo.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=StickGo.github.io&theme=monochrome&border_radius=0&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=StickGo.github.io&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" />
   </a>
   <a href="https://github.com/StickGo/ChatAi">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=ChatAi&theme=monochrome&border_radius=0&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=ChatAi&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/StickGo/latihan-nextjs-ngrok">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=latihan-nextjs-ngrok&theme=monochrome&border_radius=0&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=latihan-nextjs-ngrok&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" />
   </a>
   <a href="https://github.com/StickGo/Incubator">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=Incubator&theme=monochrome&border_radius=0&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=StickGo&repo=Incubator&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=StickGo&color=black&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=StickGo&color=000000&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
 </div>
 
 <br />
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monochrome" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 </p>
 
-<!-- Last updated: 2026-01-12 20:20 -->
+<!-- Last updated: 2026-01-12 20:25 -->
