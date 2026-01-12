@@ -3,11 +3,11 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=5000&weight=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=AGIL+FAQIH" alt="Name Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=5000&weight=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=AGIL+FAQIH" alt="Name Animation" />
   
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&weight=600&color=BBBBBB&center=true&vCenter=true&width=500&lines=Web+Developer+Intern+%40+Ashari+Tech;Next.js+%26+React+Specialist;Building+Elegant+Digital+Solutions;Minimalist+Design+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&weight=600&color=BBBBBB&center=true&vCenter=true&width=800&lines=Web+Developer+Intern+%40+Ashari+Tech;Next.js+%26+React+Specialist;Building+Elegant+Digital+Solutions;Minimalist+Design+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://agilfaqih.vercel.app" target="_blank">
@@ -83,4 +83,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 </p>
 
-<!-- Last updated: 2026-01-12 20:36 -->
+<!-- Last updated: 2026-01-12 20:38 -->
